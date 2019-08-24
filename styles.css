@@ -1,0 +1,113 @@
+
+.back{
+  margin: 0;
+  font-size: 100%;
+   text-align: center;
+
+  font-family: 'Merriweather', serif;
+}
+.top{
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+    background-color: #E4F9F5;
+
+}
+.bc{
+  position: absolute;
+  left:400px;
+}
+.tc{
+  position: absolute;
+  top: 20px;
+  right: 500px;
+}
+.app1{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+
+}
+.webc{
+  width:25%;
+  float: right;
+  padding-right: 30px;
+
+}
+hr{
+  border-style: dotted;
+  border-width: 6px;
+  width: 4%;
+  color: #d4d7dd;
+  border-bottom: 4px;
+}
+.footer-link{
+  color:#11999E;
+  padding: 20px;
+}
+.bt {
+  background: #18f5e6;
+  background-image: -webkit-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -moz-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -ms-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -o-linear-gradient(top, #18f5e6, #06756c);
+  background-image: linear-gradient(to bottom, #18f5e6, #06756c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bt:hover {
+  background: #1aedae;
+  background-image: -webkit-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -moz-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -ms-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -o-linear-gradient(top, #1aedae, #088f7d);
+  background-image: linear-gradient(to bottom, #1aedae, #088f7d);
+  text-decoration: none;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  text-align: left;
+  line-height: 2;
+
+}
+.bottom-container{
+
+  background-color: #66BFBF;
+  line-height: 3;
+  margin-top: 100px;
+  padding: 30px;
+}
+
+h1
+{
+  margin: 50px auto 0px auto;
+font-size: 5.625rem;
+color:  #66BFBF;
+font-family: 'Sacramento', cursive;
+line-height: 2;
+
+}
+
+
+
+h2{
+
+    font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  color: #11999E;
+}
